@@ -19,3 +19,24 @@ Android application integrating the Spotify Developer API to generate personaliz
 - Agile Scrum + CI/CD pipeline
 
 [Project Repository](https://github.com/radah19/Spotify-Wrapped)
+
+## 🛒 Auction Marketplace Project
+
+Django-based e-commerce auction platform inspired by eBay, allowing users to create listings, place bids, comment, and manage personalized watchlists.
+
+**Key Features**
+- Created and managed auction listings with category support
+- Implemented competitive bidding system with validation logic
+- Enabled user watchlists and listing comments
+- Auction close functionality with automatic winner determination
+- Django Admin interface for full CRUD management
+
+**Technical Stack**
+- Python (Django Framework)
+- SQL relational database (Django ORM)
+- Server-side validation for bid integrity and auction rules
+- Django authentication system for user login/registration
+- MVC architecture with model-driven database design
+
+[Project Repository](https://github.com/me50/ethan416/tree/web50/projects/2020/x/commerce)
+
