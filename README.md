@@ -17,3 +17,5 @@ Android application integrating the Spotify Developer API to generate personaliz
 - Backend database for persistent user/session data
 - Object-Oriented Design (SOLID principles)
 - Agile Scrum + CI/CD pipeline
+
+[Project Repository](https://github.com/radah19/Spotify-Wrapped)
