@@ -20,7 +20,7 @@ Android application integrating the Spotify Developer API to generate personaliz
 
 [Project Repository](https://github.com/radah19/Spotify-Wrapped)
 
-## 🛒 Auction Marketplace Project
+## Auction Marketplace Project
 
 Django-based e-commerce auction platform inspired by eBay, allowing users to create listings, place bids, comment, and manage personalized watchlists.
 
