@@ -20,6 +20,9 @@ Developed exploits in a controlled Linux VM environment to analyze and exploit s
 - ROPgadget for gadget discovery
 - Linux VM environment
 
+[Project Repository](https://github.com/ethan416/application-security-project)
+
+
 **Spotify Wrapped Project**
 
 Android application integrating the Spotify Developer API to generate personalized music analytics and recommendations.
@@ -38,6 +41,7 @@ Android application integrating the Spotify Developer API to generate personaliz
 - Agile Scrum + CI/CD pipeline
 
 [Project Repository](https://github.com/radah19/Spotify-Wrapped)
+
 
 ## Auction Marketplace Project
 
