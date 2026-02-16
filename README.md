@@ -22,7 +22,6 @@ Developed exploits in a controlled Linux VM environment to analyze and exploit s
 
 [Project Repository](https://github.com/ethan416/application-security-project)
 
-
 **Spotify Wrapped Project**
 
 Android application integrating the Spotify Developer API to generate personalized music analytics and recommendations.
