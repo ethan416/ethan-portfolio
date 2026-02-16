@@ -1,6 +1,26 @@
 # ethan-portfolio
 Security-focused computer science student specializing in web application security, low-level systems security (C), applied cryptography, and full-stack backend engineering (Django/SQL).
 
+## Cryptography Project – Practical Cryptographic Attacks
+Implemented real-world cryptographic attacks in a controlled Docker-based environment to analyze vulnerabilities arising from improper use of hash functions, symmetric encryption, and RSA padding schemes.
+
+**Key Concepts Explored** 
+- Length extension attacks against SHA-256 (Merkle–Damgård construction)
+- MD5 collision generation producing identical hashes with different program behavior
+- CBC padding oracle attack to decrypt ciphertext without access to the secret key
+- RSA PKCS#1 v1.5 signature forgery via Bleichenbacher’s attack (e = 3)
+- Cryptographic padding validation weaknesses and MAC-then-encrypt flaws
+- 
+**Technical Stack**
+- Python 3 (standard libraries only)
+- Docker development container
+- OpenSSL toolkit
+- AES (CBC mode), SHA-256, HMAC
+- Modular arithmetic & RSA number theory
+- Linux command-line tooling
+
+[Project Repository](https://github.com/ethan416/cryptography-project)
+
 ## Application Security Project – Control-Flow Hijacking
 
 Developed exploits in a controlled Linux VM environment to analyze and exploit stack-based buffer overflow vulnerabilities in native C programs.
