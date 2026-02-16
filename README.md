@@ -1,6 +1,25 @@
 # ethan-portfolio
 Security-focused computer science student specializing in web application security, low-level systems security (C), applied cryptography, and full-stack backend engineering (Django/SQL).
 
+## Application Security Project – Control-Flow Hijacking
+
+Developed exploits in a controlled Linux VM environment to analyze and exploit stack-based buffer overflow vulnerabilities in native C programs.
+
+**Key Concepts Explored**
+- Stack variable and return address overwrites
+- Redirecting execution to injected shellcode
+- Indirect control-flow hijacking under constrained input
+- Bypassing DEP using return-to-libc and ROP techniques
+- Exploiting targets with randomized stack positions (ASLR considerations)
+
+**Technical Stack**
+- C 
+- Python 
+- x86_64 assembly analysis
+- GDB for dynamic debugging
+- ROPgadget for gadget discovery
+- Linux VM environment
+
 **Spotify Wrapped Project**
 
 Android application integrating the Spotify Developer API to generate personalized music analytics and recommendations.
