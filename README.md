@@ -10,7 +10,7 @@ Implemented real-world cryptographic attacks in a controlled Docker-based enviro
 - CBC padding oracle attack to decrypt ciphertext without access to the secret key
 - RSA PKCS#1 v1.5 signature forgery via Bleichenbacher’s attack (e = 3)
 - Cryptographic padding validation weaknesses and MAC-then-encrypt flaws
-- 
+
 **Technical Stack**
 - Python 3 (standard libraries only)
 - Docker development container
